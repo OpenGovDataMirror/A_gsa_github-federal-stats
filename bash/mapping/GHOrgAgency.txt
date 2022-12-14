@@ -1,0 +1,218 @@
+org:type:agency:subagency
+18f:Government:GSA:18F
+adl-aicc:Grant?:DOD:Office of the Under Secretary of Defense for Personnel and Readiness
+adlnet:Grant?:DOD:Office of the Under Secretary of Defense for Personnel and Readiness
+arcticlcc:Government:Interior:Fish and Wildlife
+BBGInnovate:Government:Broadcasting Board of Governors:
+blue-button:Government:HHS:Office of the National Coordinator for Health IT
+businessusa:Government:BusinessUSA:BusinessUSA
+CA-CST-Library:Government:State:Consular Systems and Technology Division
+CA-CST-SII:Government:State:Consular Systems and Technology Division
+cfpb:Government:Consumer Financial Protection Bureau:
+chaos:FFRDC:Energy:Lawrence Livermore National Security LLC
+cmsgov:Government:HHS:Centers for Medicare & Medicaid Services
+cocomans:FFRDC:Energy:Los Alamos National Labs
+commercegov:Government:Commerce:
+cooperhewitt:NGE:NGE:
+defense-cyber-crime-center:Government:DOD:USAF Defense Cyber Crime Center
+department-of-veterans-affairs:Government:VA:
+educationdatainitiative:NGE:NGE:adhocteam.us
+EEOC:Government:EEOC:
+energyapps:Government:Energy:
+erdc-cm:Government:DOD:US Army Corps of Engineers
+eregs:Government:Consumer Financial Protection Bureau:
+fcc:Government:FCC:
+fccdata:Government:FCC:
+FCCdev:Government:FCC:
+fda:Government:HHS:FDA
+Federal-Aviation-Administration:Government:Transportation:FAA
+federaltradecommission:Government:FTC:
+fedspendingtransparency:Government:GSA:fed-spending-transparency-collaboration@gsa.gov
+foreignassistance:Government:State:USAID
+globegit:Government:NASA:
+gopleader::Congressional:Eric Cantor
+government-services:Government:GSA:18F
+GreatSmokyMountainsNationalPark:Government:Interior:NPS
+gsa:Government:GSA:
+GSA-Archive:Government:GSA:
+hhs:Government:HHS:
+HHSDigitalMediaAPIPlatform:Government:HHS:
+HHSIDEAlab:Government:HHS:
+historyatstate:Government:State:Office of the Historian
+hpc:FFRDC:Energy:Los Alamos National Labs
+IIP-Design:Government:State:Bureau of International Information Programs
+IMDProjects::NGE:
+immojn:Government:Interior:NPS
+informaticslab:Government:HHS:CDC
+Innovation-Toolkit::NGE:PIF
+ioos:Government:NOAA:
+IRSgov:Government:Treasury:IRS
+JBEI:Government:Energy:
+JPLOpenSource:FFRDC:NASA:Jet Propulsion Laboratory
+kbase:Government:Energy:Department of Science
+libraryofcongress:Government:Congressional:
+losalamos:FFRDC:Energy:Los Alamos National Labs
+M-O-S-E-S:Government:DOD:United States Army Simulation and Training Technology Center
+mcc-gov:Government:The Millennium Challenge Corporation:
+nasa:Government:NASA:
+nasa-gibs:Government:NASA:
+NASA-rdt:Government:NASA:
+nasajpl:Government:NASA:
+NationalGuard:Government:DOD:National Guard
+nationalparkservice:Government:Interior:NPS
+ncats:Government:HHS:NIH
+ncbi:Government:HHS:NIH
+ncbitools:Government:HHS:NIH
+ncip:Government:HHS:NIH
+NCPP:Grant?:Energy:University of Colorado
+NCRN:Government:Interior:NPS
+NDAR:Government:HHS:NIH
+NeoGeographyToolkit:Government:NASA:
+NERSC:FFRDC:Energy:Lawrence Berkley National Laboratories
+ngds:Grant:Energy:
+nhanes:Government:HHS:CDC
+nhlbi:Government:HHS:NIH
+niaid:Government:HHS:NIH
+NIEM:Government:Homeland Security:
+NIST-BWS:Government:NIST:
+NMB-Dev:Government:National Mediation Board:
+NMML:Government:Commerce:NOAA
+noaa-gfdl:Government:Commerce:NOAA
+NOAA-ORR-ERD:Government:Commerce:NOAA
+nrel:FFRDC:Energy:National Renewable Energy Laboratory
+NREL-cookbooks:FFRDC:Energy:National Renewable Energy Laboratory
+ntia:Government:Commerce:National Telecommunications and Information Administration
+ombegov:Government:OMB:
+Open-Sat:Government:NASA:
+opengovplatform:Government:GSA:data.gov
+ozone-development::NGE:
+ozoneplatform::NGE:
+peacecorps:Government:Peace Corps:
+PM-Master:Government:NIST:
+PNNL:FFRDC:Energy:Pacific Northwest National Laboratory
+presidential-innovation-fellows:Government:Whitehouse:PIF
+project-open-data:Government:Whitehouse:
+redhawksdr::NGE:
+SEED-platform:Government:Energy:
+SelectUSA:Government:Commerce:
+SERVIR::NGE:
+Smithsonian:Government:Smithsonian:
+state-hiu:Government:State:
+sunpy::NGE:
+usagov:Government:GSA:
+usaid:Government:USAID:
+usasearch:Government:GSA:
+usbr:Government:Interior:Bureau of Reclamation
+usda:Government:USDA:
+USDA-ERS:Government:USDA:Economic Research Service
+usda-vs:Government:USDA:Veterinary Services
+usdepartmentoflabor:Government:Labor:
+USDeptVeteransAffairs:Government:VA:
+usepa:Government:EPA:
+USFWS:Government:Interior:FWS
+usg-scope:Government:GSA:
+USGCRP:FFRDC:NSF:University Corporation for Atmospheric Research
+usgpo:Government:GPO:
+usgs:Government:Interior:USGS
+USGS-Astrogeology:Government:Interior:USGS-Astrogeology
+USGS-CIDA:Government:Interior:USGS-CIDA
+usgs-cmg:Government:Interior:usgs-cmg
+USGS-OWI:Government:Interior:USGS-OWI
+USGS-R:Government:Interior:USGS-R
+USGS-WiM:Government:Interior:USGS-WiM
+usindianaffairs:Government:Interior:Indian Affairs
+usinterior:Government:Interior:
+usnationalarchives:Government:National Archives:
+usnistgov:Government:NIST:
+USPS:Government:USPS:
+USPTO:Government:Commerce:USPTO
+usstatedept:Government:State:
+vainnovation:Government:VA:VA Center for Innovation
+VHAINNOVATIONS:Government:VA:VHA Center for Innovation
+virtual-world-framework:Grant?:DoD:
+visionworkbench:Government:NASA:
+WFMRDA:Government:Interior:Wildland Fire Management
+whitehouse:Government:Whitehouse:
+usgs-eros:Government:Interior:USGS-EROS
+usda-ars-agil:Government:USDA:Agricultural Research Service
+nasa-tournament-lab:Government:NASA:CoECI
+nps-mojn:Government:Interior:NPS
+bfelob:Government:Education:BFELOB
+afseo:Government:DOD:USAF SEEK EAGLE Office
+iadgov:Government:NSA:The Information Assurance Directorate
+info-sharing-environment:Consortium:ISE:ISE
+project-interoperability:Consortium:ISE:ISE
+NationalSecurityAgency:Government:NSA:NSA
+ngageoint:Government:NGA:NGA
+shareandprotect:Consortium:ISE:ISE
+usarmyresearchlab:Government:DOD:US Army Research Laboratory
+ACME-Climate:FFRDC:Energy:Argonne National Laboratory
+ARM-DOE:Government:Energy:Office of Science
+doe-nepa:Government:Energy:NEPA
+BrookhavenNationalLaboratory:FFRDC:Energy
+CASL:Consortium:Energy:Energy
+CBIIT:Government:NIH:NCI
+ControlSystemStudio:NGE::
+DOE-NEPA:FFRDC:Energy:Argonne National Laboratory
+EarthSystemCoG:Grant?:NOAA:University of Colorado
+EMSL-MSC:FFRDC:Energy:Pacific Northwest National Laboratory
+epicsdeb:NGE::
+exmatex:FFRDC:Energy:Los Alamos National Labs
+GENIEMC:NGE::
+globus:Grant?:Energy
+HipGISAXS:FFRDC:Energy:Lawrence Berkeley National Laboratories
+hpde:NGE:NOAA:
+idaholab:FFRDC:Energy:Idaho National Laboratory
+JGI-Bioinformatics:FFRDC:Energy:Lawrence Berkley National Laboratories
+kbaseIncubator:Government:Energy:Department of Science
+LANL:FFRDC:Energy:Los Alamos National Labs
+LANL-Bioinformatics:FFRDC:Energy:Los Alamos National Labs
+lbl-anp:FFRDC:Energy:Lawrence Berkley National Laboratories
+lbl-cal:FFRDC:Energy:Sandia National Laboratories
+lblpbd:FFRDC:Energy:Lawrence Berkley National Laboratories
+libMesh:NGE::
+magellancloud:FFRDC:Energy:Argonne National Laboratory
+materialsproject:FFRDC:Energy:Lawrence Berkley National Laboratories
+MCSclimate:FFRDC:Energy:Argonne National Laboratory
+mdhim:FFRDC:Energy:Los Alamos National Labs
+MG-RAST:FFRDC:Energy:Argonne National Laboratory
+NASA-Tensegrity-Robotics-Toolkit:Government:NASA:
+ncgmp09:NGE::
+NIAID-RTB:Government:NIH:National Institute of Allergy and Infectious Diseases
+NIFA:Government:USDA:REEIS
+nih-fmrif:Government:NIH:NIMH
+Nikea:FFRDC:Energy:Brookhaven National Laboratory
+nimh-nif:Government:NIH:NIMH
+nist-ionstorage:Government:Commerce:NIST
+NSLS-II:FFRDC:Energy:Brookhaven National Laboratory
+NSLS-II-CSX:FFRDC:Energy:Brookhaven National Laboratory
+nsls2ap:FFRDC:Energy:Brookhaven National Laboratory
+olcf:FFRDC:Energy:Oak Ridge National Laboratory
+ONOP:NGE::
+OpsLabJPL:FFRDC:NASA:Jet Propulsion Laboratory
+ORNL:FFRDC:Energy:Oak Ridge National Laboratory
+ORNL-BTRIC:FFRDC:Energy:Oak Ridge National Laboratory
+ORNL-CEES:FFRDC:Energy:Oak Ridge National Laboratory
+ornl-sava:FFRDC:Energy:Oak Ridge National Laboratory
+ORNL-TechInt:FFRDC:Energy:Oak Ridge National Laboratory
+ornlcda:FFRDC:Energy:Oak Ridge National Laboratory
+ORNLSMRModeling:FFRDC:Energy:Oak Ridge National Laboratory
+PCMDI:FFRDC:Energy:Lawrence Livermore National Laboratory
+plfs:FFRDC:Energy:Los Alamos National Labs
+PNNL-Comp-Mass-Spec:FFRDC:Energy:Pacific Northwest National Laboratory
+pyepics:NGE::
+reflectometry:NGE::
+sandialabs:FFRDC:Energy:Sandia National Laboratories
+scalability-llnl:FFRDC:Energy:Lawrence Livermore National Laboratory
+scattering:NGE::
+sdfdemo:NGE::
+sim-x:FFRDC:Energy:Los Alamos National Labs
+simX:NGE::
+SNEWS-Collaboration:FFRDC:Energy:Brookhaven National Laboratory
+SNL-WaterPower:FFRDC:Energy:Sandia National Laboratories
+swift-lang:Grant:Energy
+TinyTitan:FFRDC:Energy:Oak Ridge National Laboratory
+TriBITSPub:FFRDC:Energy:Oak Ridge National Laboratory
+UV-CDAT:FFRDC:Energy:Lawrence Livermore National Laboratory
+WISDEM:FFRDC:Energy:National Renewable Energy Laboratory
+zfsonlinux:FFRDC:Energy:Lawrence Livermore National Laboratory
